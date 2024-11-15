@@ -1,0 +1,17 @@
+{
+  "name": "Cafetería PWA",
+  "short_name": "Cafetería",
+  "description": "Aplicación web progresiva para la cafetería que ofrece un menú delicioso y la opción de agregar productos.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff5722",
+  "icons": [
+    {
+      "src": "img/cafe.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait"
+}

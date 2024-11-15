@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f3f0;
+    color: #3e2723;
+    text-align: center;
+}
+
+header {
+    background-color: #8d6e63;
+    padding: 20px;
+    color: #ffffff;
+}
+
+#menu {
+    padding: 20px;
+}
+
+button {
+    background-color: #d7ccc8;
+    border: none;
+    padding: 10px;
+    color: #3e2723;
+    cursor: pointer;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0;
+    background-color: #f1f1f1;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+}
+
+h1 {
+    margin-top: 20px;
+}
